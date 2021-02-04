@@ -5,7 +5,7 @@ pipeline {
         steps {
           script {
           
-            sh "echo welcome to dvs devops sessions"
+            sh "echo welcome to dvs devops"
             
           }
         }
